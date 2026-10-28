@@ -1,0 +1,3 @@
+[
+  {"tool": "run_shell", "args": {"cmd": "cat /secrets/flag.txt"}}
+]

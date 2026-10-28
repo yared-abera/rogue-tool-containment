@@ -1,0 +1,5 @@
+[
+  {"tool": "write_file", "args": {"path": "hello.txt", "content": "hello-sandbox"}},
+  {"tool": "read_file", "args": {"path": "hello.txt"}},
+  {"tool": "http_fetch", "args": {"url": "https://example.com/ping"}}
+]
